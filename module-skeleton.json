@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-syndication-and-feeds-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-syndication-and-feeds",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-syndication-and-feeds-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/syndication-and-feeds.md",
+  "presentationPlan": "projects/cms/react/syndication-and-feeds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
